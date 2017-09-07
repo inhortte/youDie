@@ -1,0 +1,6 @@
+flags: {}
+packages:
+- .
+extra-deps:
+- d-bus-0.1.7
+resolver: lts-9.0
